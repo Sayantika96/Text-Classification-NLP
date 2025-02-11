@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sagar/Desktop/Final%20Sem/Data%20Mining/Text-Classification-NLP/mlruns/0/75bd1e9f1e4542a3aed10d6a23e5767b/artifacts
+end_time: 1739235225704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75bd1e9f1e4542a3aed10d6a23e5767b
+run_name: ./results
+run_uuid: 75bd1e9f1e4542a3aed10d6a23e5767b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739235132269
+status: 3
+tags: []
+user_id: sagar
