@@ -18,6 +18,7 @@ Text-Classification-NLP/
 ├── train_pipeline.py            # Python script to train and evaluate models
 ├── vectorizer.pkl               # Text vectorizer used in the model pipeline
 └── xgboost_best_model.pkl       # Best trained XGBoost model
+└── sample2percent.csv       # 2% data kept aside
 ```
 
 ## Installation
